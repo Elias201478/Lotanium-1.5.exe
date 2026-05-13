@@ -13,7 +13,7 @@ https://discord.gg/ex6BRmUCed
 # 🤔 Fun facts
 here is the fun fact.
 
-* The Corruption System Payload can actually cause blue screen of death
+* The Corruption System Payload can actually cause blue screen of death but it needs to work in windows xp 32x/64x.
 
 * kill the BCD
 
