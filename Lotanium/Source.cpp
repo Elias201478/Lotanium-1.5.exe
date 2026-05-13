@@ -247,8 +247,8 @@ DWORD WINAPI textout(LPVOID lpParam) {
         "Lotanium.exe",
         "susnix/cattyx0r/x0anix",
         "the parasite is finally here...",
-        "''add a #include <noskidtan>'' - crzxymint",
-        "'im deadass pissed' - crzxymint",
+        "NOSKID",
+        "dead...",
         "this is the end of life..."
     };
 
