@@ -14,5 +14,21 @@ https://discord.gg/ex6BRmUCed
 
 # 🤔 Fun facts
 here is the fun fact.
-The Corruption Systemm can actually cause blue screen of death and kill the BCD
-or overwrite the windows starter.
+
+* The Corruption System can actually cause blue screen of death
+
+* kill the BCD
+
+* or overwrite the windows starter.
+
+# note for skidders ☢️( ◡̀_◡́)☢️
+i heard someone skids my trojan or my payloads so, i feel sad about it.
+
+however, if you take any part of the code you'll have to Make the entire source code of your project available to everyone With GPL 3.0/GNU and give me credit.
+or if your skidding any gdi effect then you are breaking the terms form the license!
+and **i don't able you!**
+and you also cant make the malware private.
+respect my code please.
+
+# 🎬Lotanium Showcase🎬
+Lotanium shocase here: https://www.youtube.com/watch?v=Ej3isVRQznM
