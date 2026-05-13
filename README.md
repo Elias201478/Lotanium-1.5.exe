@@ -15,7 +15,7 @@ https://discord.gg/ex6BRmUCed
 # 🤔 Fun facts
 here is the fun fact.
 
-* The Corruption System can actually cause blue screen of death
+* The Corruption System Payload can actually cause blue screen of death
 
 * kill the BCD
 
