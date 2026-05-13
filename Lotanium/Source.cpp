@@ -249,7 +249,7 @@ DWORD WINAPI textout(LPVOID lpParam) {
         "the parasite is finally here...",
         "''add a #include <noskidtan>'' - crzxymint",
         "'im deadass pissed' - crzxymint",
-        "''sigma bitch'' - sapphiretech2"
+        "this is the end of life..."
     };
 
     while (1)
