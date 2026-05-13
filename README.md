@@ -31,4 +31,4 @@ and you also cant make the malware private.
 respect my code please.
 
 # 🎬Lotanium Showcase🎬
-Lotanium shocase here: https://www.youtube.com/watch?v=Ej3isVRQznM
+Lotanium showcase here: https://www.youtube.com/watch?v=Ej3isVRQznM
